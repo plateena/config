@@ -2,7 +2,7 @@
 
 ## Program
 
-- ### conposer
+- ### composer
 - ### fish
 - ### git
 - ### mycli
