@@ -1,0 +1,15 @@
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:plateena/zsh
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:plateena/nvim_ide
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:plateena/tmux
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:plateena/alacritty
+[submodule "bin"]
+	path = bin
+	url = git@github.com:plateena/bin
