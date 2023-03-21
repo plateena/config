@@ -1,6 +1,6 @@
 [submodule "zsh"]
 	path = zsh
-	url = git@github.com:plateena/zsh
+	url = git@github.com:plateena/zsh.git
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:plateena/nvim_ide
@@ -13,3 +13,15 @@
 [submodule "bin"]
 	path = bin
 	url = git@github.com:plateena/bin
+[submodule "fish"]
+	path = fish
+	url = git@github.com:plateena/fish
+[submodule "nb/home"]
+	path = nb/home
+	url = git@github.com:plateena/nb-home
+[submodule "nb/personal"]
+	path = nb/personal
+	url = git@github.com:plateena/nb-personal
+[submodule "nb/work"]
+	path = nb/work
+	url = git@github.com:plateena/nb-work
