@@ -1,0 +1,18 @@
+# /home/zack/.config/tmuxinator/hws.yml
+
+name: hws
+root: ~/sandbox/repositories/codes/hws-console/src/
+
+windows:
+  - editor: 
+    - nvim
+  - command:
+    - ls -l
+  - running:
+    - cd ~/.sandbox
+    - ./sandbox up hws-console
+    - cd -
+    - docker exec -it hws-console npm run watch
+  - mycli:
+    - mycli -u root -p secret -P 33061 hws
+    
