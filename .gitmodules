@@ -22,3 +22,6 @@
 [submodule "nb/work"]
 	path = nb/work
 	url = git@github.com:plateena/nb-work
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:plateena/nvim
