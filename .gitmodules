@@ -1,9 +1,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:plateena/zsh.git
-[submodule "nvim"]
-	path = nvim
-	url = git@github.com:plateena/nvim_ide
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:plateena/tmux
