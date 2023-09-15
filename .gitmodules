@@ -17,7 +17,6 @@
 [submodule "fish"]
 	path = fish
 	url = git@github.com:plateena/fish.git
-    branch = main
 [submodule "nb/home"]
 	path = nb/home
 	url = git@github.com:plateena/nb-home.git
