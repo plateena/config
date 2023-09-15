@@ -1,27 +1,34 @@
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:plateena/zsh.git
+    branch = main
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:plateena/tmux
+    branch = main
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:plateena/alacritty
+    branch = main
 [submodule "bin"]
 	path = bin
 	url = git@github.com:plateena/bin
+    branch = main
 [submodule "fish"]
 	path = fish
 	url = git@github.com:plateena/fish.git
+    branch = main
 [submodule "nb/home"]
 	path = nb/home
-	url = git@github.com:plateena/nb-home
+	url = git@github.com:plateena/nb-home.git
+    branch = main
 [submodule "nb/personal"]
 	path = nb/personal
-	url = git@github.com:plateena/nb-personal
+	url = git@github.com:plateena/nb-personal.git
 [submodule "nb/work"]
 	path = nb/work
-	url = git@github.com:plateena/nb-work
+	url = git@github.com:plateena/nb-work.git
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:plateena/nvim
+    branch = main
